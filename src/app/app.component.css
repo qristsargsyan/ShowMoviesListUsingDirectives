@@ -1,0 +1,33 @@
+caption {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    margin: 25px;
+}
+
+.table {
+    width: 100%;
+    height: auto;
+    border-collapse: collapse;
+}
+
+.th {
+    background-color: black;
+    color: white;
+}
+
+th {
+    padding: 5px;
+}
+
+th,
+td {
+    font-size: 20px;
+}
+
+.even {
+    background-color: azure;
+}
+
+.odd {
+    background-color: floralwhite;
+}
